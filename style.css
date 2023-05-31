@@ -145,7 +145,7 @@ body{
 
 .right-part img{
     content: url("./assets/images/illustration-sign-up-mobile.svg");
-    margin-left: 5px;
+    margin-left: 20px;
 }
 
 form{
