@@ -35,7 +35,7 @@ body {
 }
 
 .right-part img{
-  width: 305px;
+  width: 100%;
 }
 
 ul{
@@ -145,7 +145,6 @@ body{
 
 .right-part img{
     content: url("./assets/images/illustration-sign-up-mobile.svg");
-    margin-left: 20px;
 }
 
 form{
